@@ -7,4 +7,4 @@ Available on Web, Windows, Android and iOS
 
 [Join our Discord Server](https://Discord.SonoranSoftware.com)  
 
-<a href="https://sonoran.software" target="_blank"><img width=25% src="https://sonoransoftware.com/assets/images/logos/logo_blue_white.png" title="Sonoran Software Website" alt="Sonoran Software Systems"></a>
+<a href="https://sonoran.software" target="_blank"><img width=25% src="https://sonoransoftware.com/assets/images/logos/logo_blue_grey.png" title="Sonoran Software Website" alt="Sonoran Software Systems"></a>
