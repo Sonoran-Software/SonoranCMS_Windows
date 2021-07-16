@@ -1,7 +1,9 @@
 # [<img width=50% src="https://sonoransoftware.com/assets/images/sonorancms/cms-text-trans.png" title="SonoranCMS" alt="SonoranCMS">](https://info.sonorancms.com/why-choose-sonoran-cms/why-choose-sonoran-cms) Windows Application
 
 Experience the **BEST** Community Management System  
-Available on Web, Windows, Android and iOS
+Available on Web, Windows, Android and iOS  
+
+[Download SonoranCMS for Windows](https://github.com/Sonoran-Software/SonoranCMS_Windows/releases/latest/download/Sonoran-CMS.exe)  
 
 [Why Choose SonoranCMS?](https://info.sonorancms.com/why-choose-sonoran-cms/why-choose-sonoran-cms)  
 
